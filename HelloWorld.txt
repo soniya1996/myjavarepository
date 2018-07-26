@@ -3,7 +3,7 @@ class HelloWorld
 
 
 
-main()
+public static void main()
 {
 
 
