@@ -1,0 +1,14 @@
+class HelloWorld
+{
+
+
+
+main()
+{
+
+
+
+sysstem.out.println("hii");
+
+}
+}
