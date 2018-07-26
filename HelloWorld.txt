@@ -3,12 +3,12 @@ class HelloWorld
 
 
 
-public static void main()
+public static void main(String[] args)
 {
 
 
 
-sysstem.out.println("hii");
+system.out.println("hii...");
 
 }
 }
