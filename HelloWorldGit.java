@@ -3,7 +3,7 @@ class HelloWorld
 
 
 void mymethod(){
-sus .out("my method");
+sus .out("display date");
 }
 public static void main(String[] args)
 {
