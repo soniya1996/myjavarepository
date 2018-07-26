@@ -3,7 +3,7 @@ class HelloWorld
 
 
 void mymethod(){
-sus .out("display date");
+  System.out.ptintln("display date");
 }
 public static void main(String[] args)
 {
